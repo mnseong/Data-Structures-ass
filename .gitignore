@@ -1,6 +1,12 @@
 # Created by https://www.toptal.com/developers/gitignore/api/c++,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=c++,visualstudiocode
 
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
 ### C++ ###
 # Prerequisites
 *.d
